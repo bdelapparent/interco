@@ -1,0 +1,5 @@
+<div>
+  <input placeholder="Nouveau todo" [(ngModel)]="newTodoText" />
+  <button (click)="addTodo()">Ajouter élément</button>
+  <app-todo *ngFor="let todo of todoList" [todo]="todo"></app-todo>
+</div>
