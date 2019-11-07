@@ -1,0 +1,13 @@
+package com.devlang.userportal;
+
+import java.util.List;
+
+public interface UserService {
+
+	List findAll();
+
+	User delete(int id);
+
+	User findById(int id);
+
+}

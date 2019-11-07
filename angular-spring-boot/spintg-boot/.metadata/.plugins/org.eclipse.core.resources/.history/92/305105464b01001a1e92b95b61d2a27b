@@ -1,0 +1,14 @@
+package com.devlang.userportal;
+
+import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
+
+public interface UserRepository extends Repository {
+
+    void delete(User user);
+
+    List findAll();
+
+    User findOne(int id);
+
+    User save(User user);
+}

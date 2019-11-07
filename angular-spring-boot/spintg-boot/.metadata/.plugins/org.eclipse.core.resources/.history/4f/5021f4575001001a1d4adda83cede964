@@ -1,0 +1,5 @@
+package com.devlang.userportal;
+
+public interface UserService {
+
+}

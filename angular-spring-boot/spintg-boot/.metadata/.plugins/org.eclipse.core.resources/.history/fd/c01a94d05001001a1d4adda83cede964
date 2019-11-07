@@ -1,0 +1,17 @@
+package com.devlang.userportal;
+
+import java.util.List;
+
+import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
+
+public interface UserService {
+
+	List findAll();
+
+	User delete(int id);
+
+	User findById(int id);
+
+	User create(User user);
+
+}
