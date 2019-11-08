@@ -1,0 +1,11 @@
+d:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.exe
+D:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.deps.json
+D:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.runtimeconfig.json
+D:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.runtimeconfig.dev.json
+d:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.dll
+d:\workspaces\angular\C-charpe\bin\Debug\netcoreapp3.0\C-charpe.pdb
+d:\workspaces\angular\C-charpe\obj\Debug\netcoreapp3.0\C-charpe.csprojAssemblyReference.cache
+d:\workspaces\angular\C-charpe\obj\Debug\netcoreapp3.0\C-charpe.AssemblyInfoInputs.cache
+d:\workspaces\angular\C-charpe\obj\Debug\netcoreapp3.0\C-charpe.AssemblyInfo.cs
+d:\workspaces\angular\C-charpe\obj\Debug\netcoreapp3.0\C-charpe.dll
+d:\workspaces\angular\C-charpe\obj\Debug\netcoreapp3.0\C-charpe.pdb
