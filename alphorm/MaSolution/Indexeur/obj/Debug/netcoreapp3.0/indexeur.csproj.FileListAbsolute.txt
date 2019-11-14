@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.exe
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.deps.json
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.dll
+D:\workspaces\angular\alphorm\MaSolution\indexeur\bin\Debug\netcoreapp3.0\indexeur.pdb
+D:\workspaces\angular\alphorm\MaSolution\indexeur\obj\Debug\netcoreapp3.0\indexeur.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\indexeur\obj\Debug\netcoreapp3.0\indexeur.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\indexeur\obj\Debug\netcoreapp3.0\indexeur.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\indexeur\obj\Debug\netcoreapp3.0\indexeur.dll
+D:\workspaces\angular\alphorm\MaSolution\indexeur\obj\Debug\netcoreapp3.0\indexeur.pdb

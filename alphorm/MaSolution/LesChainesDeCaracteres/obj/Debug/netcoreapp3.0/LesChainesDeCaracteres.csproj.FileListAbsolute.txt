@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.exe
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.deps.json
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.dll
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\bin\Debug\netcoreapp3.0\LesChainesDeCaracteres.pdb
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\obj\Debug\netcoreapp3.0\LesChainesDeCaracteres.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\obj\Debug\netcoreapp3.0\LesChainesDeCaracteres.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\obj\Debug\netcoreapp3.0\LesChainesDeCaracteres.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\obj\Debug\netcoreapp3.0\LesChainesDeCaracteres.dll
+D:\workspaces\angular\alphorm\MaSolution\LesChainesDeCaracteres\obj\Debug\netcoreapp3.0\LesChainesDeCaracteres.pdb

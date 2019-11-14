@@ -1,0 +1,11 @@
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.exe
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.deps.json
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.runtimeconfig.json
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.runtimeconfig.dev.json
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.dll
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\bin\Debug\netcoreapp3.0\ConsoleApplication8.pdb
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\obj\Debug\netcoreapp3.0\ConsoleApplication8.csprojAssemblyReference.cache
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\obj\Debug\netcoreapp3.0\ConsoleApplication8.AssemblyInfoInputs.cache
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\obj\Debug\netcoreapp3.0\ConsoleApplication8.AssemblyInfo.cs
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\obj\Debug\netcoreapp3.0\ConsoleApplication8.dll
+d:\workspaces\angular\alphorm\MaSolution\ConsoleApplication8\obj\Debug\netcoreapp3.0\ConsoleApplication8.pdb

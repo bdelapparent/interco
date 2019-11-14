@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.exe
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.deps.json
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.dll
+D:\workspaces\angular\alphorm\MaSolution\structure\bin\Debug\netcoreapp3.0\structure.pdb
+D:\workspaces\angular\alphorm\MaSolution\structure\obj\Debug\netcoreapp3.0\structure.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\structure\obj\Debug\netcoreapp3.0\structure.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\structure\obj\Debug\netcoreapp3.0\structure.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\structure\obj\Debug\netcoreapp3.0\structure.dll
+D:\workspaces\angular\alphorm\MaSolution\structure\obj\Debug\netcoreapp3.0\structure.pdb

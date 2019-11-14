@@ -16,6 +16,12 @@ namespace premierProjetC_charpe {
             if (DateTime.Now.Hour >= 5 && DateTime.Now.Hour < 17) {
                 Message.AfficherBonjour ();
             }
+            ConsoleKeyInfo saisie = Console.ReadKey ();
+            if (saisie.Key == ConsoleKey.Enter) {
+                Console.WriteLine ("You press enter key");
+                Console.ReadKey ();
+            }
+
         }
     }
 }

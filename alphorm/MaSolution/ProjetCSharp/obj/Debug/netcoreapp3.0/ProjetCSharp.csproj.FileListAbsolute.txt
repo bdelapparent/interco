@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.exe
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.deps.json
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.dll
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\bin\Debug\netcoreapp3.0\ProjetCSharp.pdb
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\obj\Debug\netcoreapp3.0\ProjetCSharp.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\obj\Debug\netcoreapp3.0\ProjetCSharp.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\obj\Debug\netcoreapp3.0\ProjetCSharp.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\obj\Debug\netcoreapp3.0\ProjetCSharp.dll
+D:\workspaces\angular\alphorm\MaSolution\ProjetCSharp\obj\Debug\netcoreapp3.0\ProjetCSharp.pdb

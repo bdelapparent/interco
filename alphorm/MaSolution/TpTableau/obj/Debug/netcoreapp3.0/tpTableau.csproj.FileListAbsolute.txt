@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.exe
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.deps.json
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.dll
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\bin\Debug\netcoreapp3.0\tpTableau.pdb
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\obj\Debug\netcoreapp3.0\tpTableau.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\obj\Debug\netcoreapp3.0\tpTableau.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\obj\Debug\netcoreapp3.0\tpTableau.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\obj\Debug\netcoreapp3.0\tpTableau.dll
+D:\workspaces\angular\alphorm\MaSolution\tpTableau\obj\Debug\netcoreapp3.0\tpTableau.pdb

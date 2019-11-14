@@ -1,0 +1,11 @@
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.exe
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.deps.json
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.runtimeconfig.json
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.runtimeconfig.dev.json
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.dll
+D:\workspaces\angular\alphorm\MaSolution\enumeration\bin\Debug\netcoreapp3.0\enumeration.pdb
+D:\workspaces\angular\alphorm\MaSolution\enumeration\obj\Debug\netcoreapp3.0\enumeration.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\enumeration\obj\Debug\netcoreapp3.0\enumeration.AssemblyInfoInputs.cache
+D:\workspaces\angular\alphorm\MaSolution\enumeration\obj\Debug\netcoreapp3.0\enumeration.AssemblyInfo.cs
+D:\workspaces\angular\alphorm\MaSolution\enumeration\obj\Debug\netcoreapp3.0\enumeration.dll
+D:\workspaces\angular\alphorm\MaSolution\enumeration\obj\Debug\netcoreapp3.0\enumeration.pdb
