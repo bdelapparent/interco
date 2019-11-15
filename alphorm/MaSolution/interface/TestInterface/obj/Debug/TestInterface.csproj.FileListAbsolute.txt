@@ -1,0 +1,6 @@
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\bin\Debug\TestInterface.exe.config
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\bin\Debug\TestInterface.exe
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\bin\Debug\TestInterface.pdb
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\obj\Debug\TestInterface.csprojAssemblyReference.cache
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\obj\Debug\TestInterface.exe
+D:\workspaces\angular\alphorm\MaSolution\interface\TestInterface\obj\Debug\TestInterface.pdb
